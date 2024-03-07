@@ -1,7 +1,5 @@
-# outer.chat 🚀
-
 <p align="center">
-  <a target="blank"><img src="https://github.com/outer-chat/.github/blob/main/.readme/outerchat.png" width="500" alt="Outer-Chat logo" /></a>
+  <a target="blank"><img src="https://github.com/outer-chat/.github/blob/main/.readme/social-card.png" alt="Outer-Chat logo" /></a>
 </p>
 
 <p align="center">
